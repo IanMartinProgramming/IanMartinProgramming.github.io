@@ -1,3 +1,5 @@
+title: Welcome to my GitHub Portfolio
+description: Here is where I will preview my code while looking for a job.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/IanMartinProgramming/IanMartinProgramming.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
